@@ -324,3 +324,14 @@ MIT License — Feel free to use and adapt for your own KOL outreach campaigns!
   }
 }
 </script>
+
+## 🔗 Related Gingiris Skills
+
+| Skill | Focus | Install |
+|-------|-------|---------|
+| [gingiris-launch](https://github.com/Gingiris-1031/gingiris-launch) | Product Hunt & Global Launch | `clawhub install gingiris-launch` |
+| [gingiris-ugc-matrix](https://github.com/Gingiris-1031/gingiris-ugc-matrix) | UGC Matrix & Multi-Platform Content | `clawhub install gingiris-ugc-matrix` |
+| [gingiris-b2b-growth](https://github.com/Gingiris-1031/gingiris-b2b-growth) | B2B SaaS Full-Lifecycle Growth | `clawhub install gingiris-b2b-growth` |
+| [gingiris-go-global](https://github.com/Gingiris-1031/gingiris-go-global) | Go-Global Expansion Strategy | `clawhub install gingiris-go-global` |
+
+> 📦 **Full collection:** [gingiris-skills](https://github.com/Gingiris-1031/gingiris-skills) — All playbooks in one bundle.
