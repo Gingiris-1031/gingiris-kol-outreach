@@ -1,17 +1,33 @@
 ---
 name: gingiris-kol-outreach
 description: |
-  🇺🇸 KOL Outreach & Influencer Marketing Playbook — Complete SOP from discovery to ROI tracking. Battle-tested with 200+ KOL campaigns at AFFiNE (60k stars). Includes pricing benchmarks, email templates, content packages, platform algorithm guides, and data-driven evaluation frameworks.
+  You want to work with influencers but don't know who to pick, what to pay, or how to measure if it worked. This gives you the full pipeline — from finding the right creators to tracking conversion back to revenue.
 
-  🇨🇳 KOL 外联与红人营销实战手册 — 从发现筛选到 ROI 追踪的完整 SOP。基于 AFFiNE（60k stars）200+ 次 KOL 合作实战验证。包含报价基准、邮件模板、内容包模板、各平台算法指南、数据评估体系。
+  What's inside:
+  • KOL discovery system (by niche, audience quality, engagement rate)
+  • Pitch templates that get replies (10-15% response rate benchmarks)
+  • Pricing benchmarks by platform and tier (nano to mega, YT/TT/IG/X/LI)
+  • Campaign management SOP (briefs, approvals, content review, schedules)
+  • ROI attribution framework (track creator → signup → revenue)
 
-  🇯🇵 KOLアウトリーチ＆インフルエンサーマーケティング実践ガイド — 発見からROI追跡までの完全SOP。AFFiNE（60k stars）での200回以上のKOLキャンペーン実績。価格ベンチマーク、メールテンプレート、コンテンツパッケージ、プラットフォームアルゴリズムガイド。
+  Built from: 200+ KOL campaigns at AFFiNE (0 → 60K stars). Manus launch: single KOL post → 2.8M views.
 
-  🇰🇷 KOL 아웃리치 & 인플루언서 마케팅 플레이북 — 발굴부터 ROI 추적까지 완전한 SOP. AFFiNE(60k stars) 200+ KOL 캠페인 실전 검증. 가격 벤치마크, 이메일 템플릿, 콘텐츠 패키지, 플랫폼 알고리즘 가이드.
-
-  Triggers: "KOL outreach" | "influencer marketing" | "KOL campaign" | "influencer outreach" | "creator partnership" | "KOL strategy" | "red人" | "红人营销" | "KOL合作" | "达人合作" | "influencer pricing" | "KOL ROI" | "content creator outreach" | "KOL筛选"
+  Triggers: "KOL outreach" | "influencer marketing" | "KOL campaign" | "influencer outreach" | "creator partnership" | "KOL strategy" | "红人营销" | "KOL合作" | "达人合作" | "influencer pricing" | "KOL ROI" | "content creator outreach" | "KOL筛选"
 ---
 
+
+## 📦 Install
+
+```bash
+npx skills add Gingiris-1031/gingiris-kol-outreach
+```
+
+**What you get after installing:**
+- KOL discovery and pricing benchmarks
+- Email outreach templates
+- ROI tracking framework
+
+---
 # KOL 外联与红人营销实战手册
 
 > 🌍 **Language / 语言**: 中文 | [Full SOP](references/full-sop.md)
@@ -128,3 +144,15 @@ Content Package 必须包含：Product Overview、Brand Assets、Key Talking Poi
 | 文档 | 内容 |
 |------|------|
 | [references/full-sop.md](references/full-sop.md) | 完整KOL运营指南（18章，含邮件模板、Content Package模板、头部KOL资源库、案例复盘、平台算法深度解析） |
+
+
+---
+
+## 🔗 About the Author
+
+**Iris Wei** — Growth consultant for 150+ AI startups. Ex-COO at AFFiNE (69K GitHub stars).
+
+- 🐦 Twitter: [@WeiYipei](https://twitter.com/WeiYipei) — Daily growth tactics
+- 💬 Consulting: [@Iris_carrot on Telegram](https://t.me/Iris_carrot)
+- 🛒 Premium Bundle (all 5 playbooks + templates): [Get on Gumroad ($249)](https://gingiris.gumroad.com/l/gingiris-complete-global-launch-bundle)
+- 📚 40+ Free Playbooks: [gingiris.tools/skills](https://gingiris.tools/skills/)
