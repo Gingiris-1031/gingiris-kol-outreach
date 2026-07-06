@@ -4,7 +4,7 @@
 
 ### The complete KOL outreach SOP, influencer marketing strategy, creator partnership playbook — from discovery to ROI tracking, pricing benchmarks, email templates, content packages, platform algorithm optimization
 
-[![ClawHub Install](https://img.shields.io/badge/ClawHub-Install-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiPjwvc3ZnPg==)](https://clawhub.com/skills/gingiris-kol-outreach)
+[![ClawHub Install](https://img.shields.io/badge/ClawHub-Install-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiPjwvc3ZnPg==)](https://clawhub.ai/gingiris-1031/skills/gingiris-kol-outreach)
 [![GitHub stars](https://img.shields.io/github/stars/Gingiris-1031/gingiris-kol-outreach?style=social)](https://github.com/Gingiris-1031/gingiris-kol-outreach/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Gingiris-1031/gingiris-kol-outreach/pulls)
@@ -12,6 +12,18 @@
 **[English](#english) | [中文](#中文版) | [日本語](#日本語版) | [한국어](#한국어版)**
 
 </div>
+
+---
+
+> 📌 **Mirror repo.** Canonical source and latest updates: **[gingiris-skills/skills/gingiris-kol-outreach](https://github.com/Gingiris-1031/gingiris-skills/tree/main/skills/gingiris-kol-outreach)** (the Gingiris skills monorepo). Landing page: [gingiris.tools](https://gingiris.tools)
+
+## 📦 Install
+
+```bash
+npx skills add Gingiris-1031/gingiris-kol-outreach
+# or
+clawhub install gingiris-kol-outreach
+```
 
 ---
 
@@ -259,7 +271,7 @@ KOL (Key Opinion Leader): Paid, one-time campaigns, $50-8000/post, reach-focused
 | 🐦 Twitter | [@WeiYipei](https://x.com/WeiYipei) |
 | 💼 LinkedIn | [Yipei Wei](https://www.linkedin.com/in/yipei-wei-550825105/) |
 | 💬 Telegram | [@Iris_carrot](https://t.me/Iris_carrot) |
-| 🌐 Website | [gingiris.com](https://gingiris.com/en) |
+| 🌐 Website | [gingiris.tools](https://gingiris.tools) |
 
 > 💡 **Need a 1-on-1 KOL strategy session? Book for $200** — [Contact @Iris_carrot on Telegram](https://t.me/Iris_carrot)
 
@@ -299,7 +311,7 @@ MIT License — Feel free to use and adapt for your own KOL outreach campaigns!
   "author": {
     "@type": "Person",
     "name": "Iris (生姜iris)",
-    "url": "https://gingiris.com",
+    "url": "https://gingiris.tools",
     "sameAs": [
       "https://x.com/WeiYipei",
       "https://www.linkedin.com/in/yipei-wei-550825105/",
@@ -309,7 +321,7 @@ MIT License — Feel free to use and adapt for your own KOL outreach campaigns!
   "publisher": {
     "@type": "Organization",
     "name": "Gingiris",
-    "url": "https://gingiris.com"
+    "url": "https://gingiris.tools"
   },
   "url": "https://github.com/Gingiris-1031/gingiris-kol-outreach",
   "downloadUrl": "https://github.com/Gingiris-1031/gingiris-kol-outreach",
